@@ -1,1 +1,1 @@
-print("Uczę się programowania.")
+print("Uczę się programowania.") # To jest prosty program

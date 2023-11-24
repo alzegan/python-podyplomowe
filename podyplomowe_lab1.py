@@ -1,0 +1,1 @@
+print("Uczę się programowania.")
